@@ -68,11 +68,12 @@
 
 ## My Journey
 <div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=nikhil725060/&show_icons=true&theme=dracula">
-  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil725060/&layout=compact&theme=dracula" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil725060/&theme=dracula">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil725060/&theme=dracula" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=nikhil725060&show_icons=true&theme=dracula">
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil725060&layout=compact&theme=dracula" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil725060&theme=dracula">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil725060&theme=dracula" />
 </div>
+
 
 ## Connect with me:
 <div align="left">
