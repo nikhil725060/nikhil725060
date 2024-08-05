@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rocky Patel 👋</h1>
+<h1 align="center">Hi, I'm Nikhil  👋</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB on backend.                  
@@ -55,10 +55,10 @@
 </div>
 <br>
 
-![](https://komarev.com/ghpvc/?username=Rpatel9675)
+![](https://komarev.com/ghpvc/?username=nikhil725060/)
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rpatel9675" alt="Rpatel9675" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil725060/" alt="c" /></a> </p>
 
 ## Leetcode
 <div style="display: flex; align-items: center;">
@@ -68,10 +68,10 @@
 
 ## My Journey
 <div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=rpatel9675&show_icons=true&theme=dracula">
-  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpatel9675&layout=compact&theme=dracula" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=rpatel9675&theme=dracula">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=rpatel9675&theme=dracula" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=nikhil725060/&show_icons=true&theme=dracula">
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil725060/&layout=compact&theme=dracula" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil725060/&theme=dracula">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil725060/&theme=dracula" />
 </div>
 
 ## Connect with me:
@@ -82,7 +82,7 @@
   <a href="https://www.linkedin.com/in/rocky-patel-36070020a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/rpatel9675" target="_blank">
+  <a href="https://github.com/nikhil725060/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
   <a href="https://leetcode.com/u/pprl735757/" target="_blank">
@@ -94,10 +94,8 @@
   <a href="https://www.geeksforgeeks.org/user/pprl735757/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gfg logo" />
   </a>
-  <a href="https://www.dropbox.com/scl/fi/7jiurd0nnju64xg81jmwm/Rocky_scv-4.pdf?rlkey=weixtpz9x7kkya6u4o7u6oia4&st=j3cejmm1&dl=0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Resume&logo=file-pdf&label=&color=FF6F61&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
-  </a>
-  <a href="mailto:pprl735757@gmail.com" target="_blank">
+ 
+  <a href="mailto:nikhilkumar725060@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
