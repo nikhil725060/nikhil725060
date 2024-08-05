@@ -58,7 +58,6 @@
 ![](https://komarev.com/ghpvc/?username=nikhil725060)
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil725060/" alt="c" /></a> </p>
 
 ## Leetcode
 <div style="display: flex; align-items: center;">
